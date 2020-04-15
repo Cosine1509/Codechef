@@ -6,5 +6,7 @@ This repository contains my accepted solutions for the Contests and Practice pro
 
 Overall Perfomance :
 
+![](images/overall.png)
+
 
 April Challenge Performance :
